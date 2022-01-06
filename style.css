@@ -54,6 +54,7 @@ span{
 .display-area{
     display: flex;
     
+    
 
 }
 .layout-one img{
@@ -69,12 +70,13 @@ span{
 .layout-three img{
     width: 50%;
     margin-left: 20px;
+    
 }
 .layout-one{
     margin-left: 100px;
     margin-top: 10px;
     width: 80%;
-    background-color: rgb(194, 165, 113);
+    background-color: rgb(125, 160, 168);
     padding-left: 20px;
     border-radius: 10px;
 }
@@ -143,6 +145,6 @@ span{
  }
  .footer-section{
      height: 150px;
-     background-color: black;
+     background-color: rgb(15, 12, 12);
      color: white;
  }
